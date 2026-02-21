@@ -29,13 +29,13 @@ The goal is to support rescue and disaster management operations.
 ## Result
 
 ### Input Image
-![Input](images/img1.pngg)
-
-### Person Detection
-![Detection](images/obj.jpg)
+![Input](images/img1.png)
 
 ### Flood Segmentation
 ![Segmentation](images/seg.jpg)
+
+### Person Detection
+![Detection](images/obj.jpg)
 
 ### Final Output
 ![Final](images/finl.jpg)
